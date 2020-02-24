@@ -77,10 +77,10 @@ To prevent the cloud offline, and to better check the status of running jobs, pl
 
 ```
 cd cost_model_swarm
-python3 worker.py <joblist.csv> -i <interval to call the algo - default 10s > 
+python3 worker.py <joblist.csv> -i <interval to call the algo - default 10s > -m <master's ip>
 ```
 
->eg. `python3 worker.py test_joblist.csv -i 10 `
+>eg. `python3 worker.py test_joblist.csv -m 128.110.154.231 `
 
 
 
