@@ -1,0 +1,11 @@
+images,seconds,usable,target,scaler,container_name,node,1
+wzheng33/bidrnn:latest,0,,,<,bidrnnAB,none,0.5861400000000001
+wzheng33/vaet:latest,10,,150.0,<,vaffeCD,none,
+wzheng33/bidrnn:latest,15,0.6,,<,bieqwenAB,none,0.7543839999999999
+wzheng33/bidrnn:latest,20,0.6,0.5,<,asfgeee,none,0.745324
+wzheng33/vaet:latest,25,160.0,150.0,<,vafasd,none,
+wzheng33/bidrnn:latest,30,0.6,0.5,<,adsdasd,none,0.6189319999999999
+wzheng33/bidrnn:latest,35,0.6,0.5,<,dasdasd,none,0.8161339999999999
+wzheng33/vaet:latest,40,160.0,150.0,<,rrff,none,
+wzheng33/bidrnn:latest,45,0.6,0.5,<,ccvf,none,0.6449400000000001
+wzheng33/bidrnn:latest,50,0.6,0.5,<,werttt,none,0.8082779999999999
